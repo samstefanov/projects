@@ -1,1 +1,2 @@
-# projects
+# Baseball war calculator
+Took and filtered batter data from 2022-2025, and calculated each player's wins above replacement for that year based on a variety of factors, including defense, speed, and overall batting. I used the data from 2022-2024 to try and predict WAR for 2025. I then built a series of models using a variety of predictors, including linear regression, ridge regression, and lasso regression, using a different selection strategies for each one to determine with model did the best job of predicting WAR for 2025.
