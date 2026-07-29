@@ -95,3 +95,4 @@ pitcher_table = pitcher_table_joined %>%
   mutate(swinging_strike_rate = swinging_strike / n) %>%
   mutate(strike_rate = strike / n) %>%
   mutate(walk_rate = ball / n)
+
